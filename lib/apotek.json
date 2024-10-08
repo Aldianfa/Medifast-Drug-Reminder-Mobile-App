@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nama": "Apotek K-24 Gajayana Malang",
+        "alamat": "Jl. Raya Sumbersari No.Kav. 4, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+        "lang": "-7.951963621157307",
+        "long": "112.60901133014197",
+        "jambuka": "24 Jam"
+    },
+    {
+        "id": 2,
+        "nama": "Klinik UIN Maulana Malik Ibrahim Malang",
+        "alamat": "Jl. Gajayana No.50, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+        "lang": "-7.951316537357285",
+        "long": "112.60868495121804",
+        "jambuka": "09.00 - 24.00"
+    },
+    {
+        "id": 3,
+        "nama": "Klinik UIN Maulana Malik Ibrahim Malang",
+        "alamat": "Jl. Gajayana No.50, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+        "lang": "-7.951316537357285",
+        "long": "112.60868495121804",
+        "jambuka": "09.00 - 24.00"
+    },
+    {
+        "id": 4,
+        "nama": "Klinik Daqu Sehat New",
+        "alamat": "Jl. Sunan Muria No.2, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+        "lang": "-7.9539908606057095",
+        "long": "112.60653104168553",
+        "jambuka": "07.00 - 21.00"
+    },
+    {
+        "id": 5,
+        "nama": "Apotek Telaga Nabi",
+        "alamat": "Jl. Raya Sumbersari No.254C, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+        "lang": "-7.9546538925802075",
+        "long": "112.61117689326606",
+        "jambuka": "07.00 - 21.00"
+    }
+]

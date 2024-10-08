@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Sumagesic Strip",
+        "price": "Rp. 5.000",
+        "description": "Obat ini bisa dikonsumsi oleh orang dewasa maupun anak-anak. Namun, jika Anda memiliki kondisi hipersensitif pada paracetamol, sebaiknya hindari penggunaan obat ini.",
+        "image": "https://drive.google.com/uc?export=view&id=1mrNpZICMOHVnBnKktQqCloZFj_2ItBAG",
+        "rate": 3,
+        "des": "Demam"
+    },
+    {
+        "id": 2,
+        "name": "Sanmol Paracetamol",
+        "price": "Rp. 2.000",
+        "description": "Obat ini mengandung paracetamol sehingga dapat menurunkan demam, serta meredakan nyeri ringan seperti sakit kepala dan sakit gigi.",
+        "image": "https://drive.google.com/uc?export=view&id=1slO2CHSrsw91fSafo4tT0oJnxH8dOCd9",
+        "rate": 5,
+        "des": "Demam"
+    },
+    {
+        "id": 3,
+        "name": "Panadol Paracetamol",
+        "price": "Rp. 13.000",
+        "description": "Obat ini dapat digunakan untuk menurunkan demam yang disertai dengan gejala flu, demam setelah vaksinasi, serta meredakan sakit kepala, dan nyeri otot.",
+        "image": "https://drive.google.com/uc?export=view&id=1kQxLkBLhhAC7e7yUS-p5b9sfxBGME6hv",
+        "rate": 4,
+        "des": "Demam"
+    },
+    {
+        "id": 4,
+        "name": "Imodium Loperamide HCL",
+        "price": "Rp. 29.000",
+        "description": "Obat diare Imodium diperkaya dengan kandungan Loperamide HCL yang bekerja dengan cara memperlambat kinerja usus, sehingga pencernaan makanan dapat bekerja lebih lama agar feses tidak cair.",
+        "image": "https://drive.google.com/uc?export=view&id=16B74n7GPV-LDDn7oXTgTzLUlMcup1JnK",
+        "rate": 4,
+        "des": "Diare"
+    },
+    {
+        "id": 5,
+        "name": "Neo Entrostop Strip",
+        "price": "Rp. 19.000",
+        "description": "Entrostop mengobati diare dengan cara menyerap bakteri atau racun penyebab diare dengan mengeluarkan feses, lalu menghentikan diare.",
+        "image": "https://drive.google.com/uc?export=view&id=1IZmr8Ydin5ojWFtMmKQGXksMreps0qR2",
+        "rate": 2,
+        "des": "Diare"
+    },
+    {
+        "id": 6,
+        "name": "Stimuno Syrup",
+        "price": "Rp. 12.000",
+        "description": "Stimuno Syrup yang berfungsi untuk menjaga anak agar tidak mudah terkena penyakit.",
+        "image": "https://drive.google.com/uc?export=view&id=18XY9xGo3AKqXI4v5PnPgdkKUZpTV-ozl",
+        "rate": 4,
+        "des": "Vitamin Anak"
+    },
+    {
+        "id": 7,
+        "name": "Curcuma Plus",
+        "price": "Rp. 13.000",
+        "description": "Curcuma Plus merupakan vitamin yang terbuat dari temulawak yang cocok dikonsumsi oleh anak yang sulit makan.",
+        "image": "https://drive.google.com/uc?export=view&id=1EpMqbC01d21YMBFAlojJ1C3T9jdkm2Ed",
+        "rate": 5,
+        "des": "Vitamin Anak"
+    },
+    {
+        "id": 8,
+        "name": "Imboost Kids",
+        "price": "Rp. 32.000",
+        "description": "Terbuat dari bahan herbal echinacea dan zinc picolenat, vitamin ini ampuh jaga sistem kekebalan tubuh, meredakan infeksi, serta mempercepat penyembuhan ketika sakit.",
+        "image": "https://drive.google.com/uc?export=view&id=1L8Esrr_os4V_WPKhc31LjTBZM7-M3Ijp",
+        "rate": 5,
+        "des": "Vitamin Anak"
+    },
+    {
+        "id": 9,
+        "name": "Scott's Emulsion",
+        "price": "Rp. 32.000",
+        "description": "Memiliki kandungan hati ikan kod, vitamin A, D, omega-3, dan kalsium, vitamin ini mampu menjaga pertumbuhan serta kesehatan si kecil.",
+        "image": "https://drive.google.com/uc?export=view&id=1BlELy3D3s_TUqyfa4la0grJTTTSVq7YP",
+        "rate": 2,
+        "des": "Vitamin Anak"
+    },
+    {
+        "name": "Seven Seas Becombion Syrup",
+        "price": "Rp.35.000",
+        "description": "Multivitamin berbentuk sirup ini mampu memaksimalkan tumbuh kembang anak dan cocok dikonsumsi oleh anak berusia di atas 1 tahun.",
+        "image": "https://drive.google.com/uc?export=view&id=1_Sklj8GdfLESaaWQ9ogqxRibAreQxNuE",
+        "rate": 3,
+        "des": "Multivitamin anak",
+        "id": 10
+    }
+]
